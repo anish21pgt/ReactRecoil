@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## This is a Task Manager Application made with React. Users can add new tasks and remove them once completed.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
